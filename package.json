@@ -13,5 +13,6 @@
         "email": "stampkantanatlaptop@hotmail.com"
     },
     "type": "commonjs",
-    "license": "MIT"
+    "license": "MIT",
+    "repository: "https://github.com/stamp-cmd/fizzbuzz-kit/"
 }
