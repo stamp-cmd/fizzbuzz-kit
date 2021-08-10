@@ -308,7 +308,7 @@ function TotalBuzz(num) {
     }
 }
 
-module.exports; {
+module.exports = {
     isFizzBuzz,
     isBuzz,
     isFizz,
